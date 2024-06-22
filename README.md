@@ -1,6 +1,6 @@
 >_Fucked_    <img src="https://media.tenor.com/uvs84qLH_l8AAAAi/nahh-nah.gif" width="30px" align="center">
 
-#### _Languages._
+#### _Languages, libs & frameworks._
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
