@@ -11,7 +11,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-78c461?style=for-the-badge&logo=express&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=Zod&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BCF9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=38BCF9)
+
 
 #### _Tools._
 
