@@ -23,5 +23,6 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![pnpm](https://img.shields.io/badge/pnpm-ffffff?style=for-the-badge&logo=pnpm&logoColor=f69220)](https://pnpm.io/)
 [![Vite](https://img.shields.io/badge/Vite-FFD62E?style=for-the-badge&logo=Vite&logoColor=646CFF)](https://vitejs.dev/)
+[![SWC](https://img.shields.io/badge/SWC-%2320232a.svg?style=for-the-badge&logo=swc&logoColor=%23F2C94C)](https://swc.rs/)
 
 <!-- Old JS badge ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
