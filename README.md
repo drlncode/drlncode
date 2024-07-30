@@ -16,16 +16,16 @@
 
 #### _Tools & services._
 
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![pnpm](https://img.shields.io/badge/pnpm-ffffff?style=for-the-badge&logo=pnpm&logoColor=f69220)](https://pnpm.io/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/products/platform/atlas-database)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Turso](https://img.shields.io/badge/Turso-007acc?logo=turso&logoColor=white&style=for-the-badge)](https://turso.tech/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
 [![Vite](https://img.shields.io/badge/Vite-FFD62E?style=for-the-badge&logo=Vite&logoColor=646CFF)](https://vitejs.dev/)
 [![SWC](https://img.shields.io/badge/SWC-%2320232a.svg?style=for-the-badge&logo=swc&logoColor=%23F2C94C)](https://swc.rs/)
+[![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/products/platform/atlas-database)
+[![Turso](https://img.shields.io/badge/Turso-007acc?logo=turso&logoColor=white&style=for-the-badge)](https://turso.tech/)
 [![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&style=for-the-badge)](https://vercel.com/home)
 
 <!-- Old JS badge ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
