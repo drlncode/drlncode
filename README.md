@@ -6,6 +6,7 @@
 <!--![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)-->
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Express.js](https://img.shields.io/badge/Express.js-78c461?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Zod](https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=Zod&logoColor=white)](https://zod.dev/)
