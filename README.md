@@ -29,12 +29,10 @@
   [![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&style=for-the-badge)](https://vercel.com/home)
   [![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/products/platform/atlas-database)
   [![Turso](https://img.shields.io/badge/Turso-4ff7d1?logo=turso&logoColor=white&style=for-the-badge)](https://turso.tech/)
+  [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
+  [![Vite](https://img.shields.io/badge/Vite-FFD62E?style=for-the-badge&logo=Vite&logoColor=646CFF)](https://vitejs.dev/)
+  [![SWC](https://img.shields.io/badge/SWC-%2320232a.svg?style=for-the-badge&logo=swc&logoColor=%23F2C94C)](https://swc.rs/)
   
 </div>
 
-<!-- [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
-[![Vite](https://img.shields.io/badge/Vite-FFD62E?style=for-the-badge&logo=Vite&logoColor=646CFF)](https://vitejs.dev/)
-[![SWC](https://img.shields.io/badge/SWC-%2320232a.svg?style=for-the-badge&logo=swc&logoColor=%23F2C94C)](https://swc.rs/)
-
-
-Old JS badge: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
+<!-- Old JS badge: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
