@@ -4,4 +4,3 @@ _<h1>Hi there._ <img src="https://media.tenor.com/uvs84qLH_l8AAAAi/nahh-nah.gif"
 
 - _Currently studying programming full time._
 - _The Stack I'm focused on rn is the MERN Stack._
-- _I am passionate about building things from scratch, <br>something unusual from what I see._
